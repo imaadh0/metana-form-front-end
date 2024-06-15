@@ -81,7 +81,7 @@ const questions = [
   },
   {
     type: "radio",
-    label: "Certifying Statement*",
+    label: "Certifying Statement*\n I hereby acknowledge that this application form was completed by me (the individual seeking to enroll in Metana) and I did not receive help from any external sources. The responses submitted are entirely my own and based on my own reasoning. Also, I opt in to receive communication messages from Metana about my application.",
     name: "certify",
     options: ["I accept", "I don’t accept"],
   },

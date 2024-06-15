@@ -17,37 +17,37 @@ body {
   padding: 2rem;
   box-sizing: border-box;
   text-align: center;
-  color: #cf9fff;  /* Lavender color */
+  color: #cf9fff; 
 }
 
 .intro h1 {
   font-size: 2rem;
   margin-bottom: 1rem;
-  color: #cf9fff;  /* Lavender color */
+  color: #cf9fff;  
 }
 
 .intro p {
   font-size: 1.2rem;
-  color: #cf9fff;  /* Lavender color */
+  color: #cf9fff;  
 }
 
 .intro ul {
   list-style: none;
   padding: 0;
-  color: #cf9fff;  /* Lavender color */
+  color: #cf9fff;  
 }
 
 .intro ul li {
   font-size: 1rem;
   margin: 0.5rem 0;
-  color: #cf9fff;  /* Lavender color */
+  color: #cf9fff;  
 }
 
 label {
   font-size: 1.2rem;
   margin-bottom: 0.5rem;
   display: block;
-  color: #cf9fff;  /* Lavender color */
+  color: #cf9fff;  
 }
 
 input[type="text"],
@@ -68,7 +68,7 @@ input[type="radio"] {
 }
 
 button {
-  background-color: #cf9fff;  /* Lavender color */
+  background-color: #cf9fff;  
   color: white;
   border: none;
   padding: 10px 20px;
@@ -84,5 +84,5 @@ button:hover {
 
 p {
   font-size: 1.2rem;
-  color: #cf9fff;  /* Lavender color */
+  color: #cf9fff;  
 }
