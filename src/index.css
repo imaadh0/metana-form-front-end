@@ -1,0 +1,88 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.App {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 600px;
+  padding: 2rem;
+  box-sizing: border-box;
+  text-align: center;
+  color: #cf9fff;  /* Lavender color */
+}
+
+.intro h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #cf9fff;  /* Lavender color */
+}
+
+.intro p {
+  font-size: 1.2rem;
+  color: #cf9fff;  /* Lavender color */
+}
+
+.intro ul {
+  list-style: none;
+  padding: 0;
+  color: #cf9fff;  /* Lavender color */
+}
+
+.intro ul li {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+  color: #cf9fff;  /* Lavender color */
+}
+
+label {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  display: block;
+  color: #cf9fff;  /* Lavender color */
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="tel"] {
+  width: calc(100% - 20px);
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  margin-right: 10px;
+}
+
+button {
+  background-color: #cf9fff;  /* Lavender color */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 1rem;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #b383ff;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #cf9fff;  /* Lavender color */
+}
